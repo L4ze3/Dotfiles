@@ -1,0 +1,2 @@
+@theme "/usr/share/rofi/themes/minimal.rasi"
+@import "~/.cache/wal/colors-rofi-dark.rasi"
